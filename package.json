@@ -1,0 +1,11 @@
+{
+  "name": "tlschecker",
+  "version": "0.1.0",
+  "description": "node index.js host=example.com",
+  "main": "TLSChecker.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Yukihiro Ogawa <works@yukihirog.jp> (https://github.com/yukihirog)",
+  "license": "ISC"
+}
